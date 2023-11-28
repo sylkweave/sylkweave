@@ -1,4 +1,7 @@
-### Hi there 👋 <FONT COLOR="red">THIS SITE IS UNDER CONSTRUCTION
+### Hi there 👋 THIS SITE IS UNDER CONSTRUCTION
+
+## Come back soon! :)
+
 ## 🌐 HELLO WORLD! 
 <center> <img src="DSREADME.gif"></center> <br><br>
 
